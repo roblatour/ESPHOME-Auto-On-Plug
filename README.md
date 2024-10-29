@@ -23,7 +23,7 @@ With this software flashed to my SONOFF S31 Lite power plug, I can (from my offi
 
 Having that said, the software is also designed so that the power will be turned back on automatically in 30 seconds should it be turned off via the button on the S31 itself as well.
 
-# Recommendation for first time use:
+# Recommendation for first time use
 Ensure the device running this software has access to Home Assistant at the location it will be used.
 
 To do this is to plug the device running this software into to the power outlet that you intended to use with it, but do not yet plug anything into the device running this software.
@@ -32,7 +32,7 @@ Next, use ESPHOME's log feature to view the logs of the device running this soft
 
 Next, turn the device off either manually by pushing its button or add it to your Home Assistant dashboard and turn it off via the dashboard.  Once done wait 30 seconds and the relay should switch back on.
 
-## A helpful video 
+# A helpful video 
 on how to install ESPHome softwar on a SONOFF S31 Lite can be found here:
 https://www.youtube.com/watch?v=S4-HVYPCA2c
 
