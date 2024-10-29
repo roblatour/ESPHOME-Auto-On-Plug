@@ -1,8 +1,7 @@
 ## In summary
 This software automatically turns on a SONOFF S31 Lite power plug's relay when it is first plugged in, and also back on 30 seconds anytime after the relay is turned off assuming the S31 remains plugged in and powered.
 
-**It has been written for and testing on**
-a SONOFF S31 Lite power plug.
+**It has been written to run via Home Assistant - ESPHOME and testing on a SONOFF S31 Lite power plug.**
 
 # License
 MIT
