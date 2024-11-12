@@ -33,7 +33,7 @@ Next, turn the device off either manually by pushing its button or add it to you
 
 # A helpful video 
 on how to install ESPHome softwar on a SONOFF S31 Lite can be found here:
-[https://www.youtube.com/watch?v=S4-HVYPCA2c](https://www.youtube.com/watch?v=S4-HVYPCA2c&t=617s)
+[https://www.youtube.com/watch?v=S4-HVYPCA2c](https://www.youtube.com/watch?v=S4-HVYPCA2c&t=235s)
 
 ## Support
 
