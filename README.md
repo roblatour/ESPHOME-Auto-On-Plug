@@ -31,6 +31,9 @@ Next, use ESPHOME's log feature to view the logs of the device running this soft
 
 Next, turn the device off either manually by pushing its button or add it to your Home Assistant dashboard and turn it off via the dashboard.  Once done wait 30 seconds and the relay should switch back on.
 
+# Controlling directly without using Home Assistant
+Along with the YAML that allows you to control the switch as a Home Assistant ESPHOME device, I've also added a python script which lets you turn the switch on or off directly from a computer with Python installed on it.
+
 # A helpful video 
 on how to install ESPHome softwar on a SONOFF S31 Lite can be found here:
 [https://www.youtube.com/watch?v=S4-HVYPCA2c](https://www.youtube.com/watch?v=S4-HVYPCA2c&t=235s)
