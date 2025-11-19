@@ -29,7 +29,7 @@
 #   python control_plug.py --host=<host> --action=on|off [--ekey=<encryption_key>]
 #
 # Examples:
-#   py control_plug.py --host=192.168.2.230 --action=on
+#   py control_plug.py --host=192.168.1.100 --action=on
 #   py control_plug.py --host=esphome-jetkvm-power-control.local --action=off
 #   py control_plug.py --host=esphome-jetkvm-power-control.local --action=on --ekey=YOUR_ENCRYPTION_KEY_HERE
 #
