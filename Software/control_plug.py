@@ -1,4 +1,4 @@
-# Copyright Rob Latour, 2026
+# Copyright Rob Latour, 2025
 # License MIT
 #
 #
